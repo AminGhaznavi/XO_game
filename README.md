@@ -10,6 +10,7 @@ Compile and run the program using GCC:
 ```bash
 gcc main.c -o tictactoe
 ./tictactoe
+```
 🗂️ Project Structure
 main.c → Contains all game logic (structures, functions, and main loop).
 
@@ -35,4 +36,3 @@ Implement online multiplayer mode.
 Language: C
 
 Compiler: GCC
-```bash
