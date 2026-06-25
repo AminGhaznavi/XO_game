@@ -8,7 +8,7 @@ The game runs on a 3×3 board where two players take turns using symbols `X` and
 Compile and run the program using GCC:
 
 ```bash
-gcc main.c -o tictactoe
+gcc XO_main.c -o tictactoe
 ./tictactoe
 ```
 🗂️ Project Structure
