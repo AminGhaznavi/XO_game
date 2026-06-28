@@ -1,4 +1,4 @@
-# ❌🅾️ Classic Tic-Tac-Toe (CLI Edition)
+# ❌🅾️ Classic Tic-Tac-Toe 
 
 Welcome to the **Classic Tic-Tac-Toe**, a lightweight, fast, and pure C implementation of the timeless 3x3 grid game. It is fully interactive, runs straight in your terminal, and utilizes structured programming paradigms to deliver a smooth 2-player gaming experience.
 
